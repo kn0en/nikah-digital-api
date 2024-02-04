@@ -9,7 +9,7 @@
     <meta name="theme-color" content="#ffffff">
     <meta name="color-scheme" content="light">
     <title>Kamu - PHP Framework</title>
-    <link rel="stylesheet" href="{{ asset('css/app.css') }}">
+    <link rel="stylesheet" href="https://nikah-digital-api.vercel.app//css/app.css">
     <link rel="icon" type="image/png" sizes="192x192" href="{{ asset('kamu.png') }}">
 </head>
 
@@ -24,7 +24,7 @@
         </div>
     </div>
 
-    <script src="{{ asset('js/app.js') }}"></script>
+    <script src="https://nikah-digital-api.vercel.app/js/app.js"></script>
 </body>
 
 </html>
